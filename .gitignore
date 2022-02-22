@@ -1,4 +1,6 @@
 
 node_modules/
 
-salida/*.txt
+salida/*.txtgit remote add origin https://github.com/Scroftzero00/curso-node-tabla.git
+git branch -M main
+git push -u origin main
